@@ -1,0 +1,15 @@
+table, th, td {
+  border: 1px solid;
+}
+
+.progress-case {
+  color: #000!important;
+  background-color: #f1f1f1!important;
+}
+
+.progress-bar {
+  color: #fff!important;
+  background-color: #2196F3!important;
+  padding: 0.01em 16px;
+  text-align: center!important;
+}
